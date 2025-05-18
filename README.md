@@ -8,6 +8,7 @@ Here's a **GitHub README.md** tailored for your **QR Code Generator** project (b
 
 A simple and elegant web app that allows users to generate QR codes instantly by entering any URL or text. Built using HTML, CSS, and JavaScript.
 
+Deployed Link: https://qr-generator-hazel-alpha.vercel.app/
 ---
 
 ## ✨ Features
